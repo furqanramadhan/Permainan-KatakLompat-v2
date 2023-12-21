@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Koin
+comment0.text=\n\ Menyatakan\ class\ bernama\ Koin\n\ untuk\ menentukan\ nilai\ koin\ dan\ input\ yang\ dimasukkan\n\n\ @author\ Nazwa\ Salsabila\n\ @version\ 29.10.2023\n
+comment1.params=
+comment1.target=Koin()
+comment1.text=\n\ @param\ method\ constructor\ untuk\ menyatakan\ nilai\ pemain\n
+comment2.params=nilai
+comment2.target=Koin(int)
+comment2.text=\n\ @param\ method\ constructor\ untuk\ menentukan\ nilai\ koin\n
+comment3.params=
+comment3.target=int\ getNilai()
+comment3.text=\n\ \n\ @return\ method\ constructor\ ->\ return\ nilai\ koin\n
+comment4.params=nilaibaru
+comment4.target=void\ setNilai(int)
+comment4.text=\n\ \n\ @param\ method\ mutator\ untuk\ setter\ nilai\ koin\ yang\ baru\n
+numComments=5

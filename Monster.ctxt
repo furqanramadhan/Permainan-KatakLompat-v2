@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\n\ Menyatakan\ class\ Monster\ dimana\ monster\ akan\n\ mengurangi\ skor\ dari\ pemain\n\n\ @author\ Nazwa\ Salsabila\n\ @version\ 29.10.2023\n
+comment1.params=
+comment1.target=Monster()
+comment1.text=\n\ @param\ Method\ constructor\ dengan\ tanpa\ paramater.\n
+comment2.params=nilai\ nama
+comment2.target=Monster(int,\ java.lang.String)
+comment2.text=\n\ \n\ @param\ nilai\ Method\ constructor\ dengan\ parameter\ untuk\ menginisialisasi\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ nilai\ serta\ nama.\n\ @param\ nama\n
+comment3.params=
+comment3.target=int\ getNilai()
+comment3.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ monster\ ->\ nilai\n
+comment4.params=
+comment4.target=java.lang.String\ getNama()
+comment4.text=\n\ \n\ @return\ Method\ accessor\ untuk\ return\ dari\ monster\ ->\ nama\ monster\n
+comment5.params=nama
+comment5.target=void\ setNama(java.lang.String)
+comment5.text=\n\ \n\ @param\ Method\ mutator\ sebagai\ setter\ nama\ monster.\n
+numComments=6
