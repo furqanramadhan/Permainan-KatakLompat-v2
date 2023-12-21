@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Aligator
+comment0.text=\n\ \n\ Menyatakan\ sub\ class\ spesific\ class\ bernama\ Aligator\ yaitu\ inheritance\ dari\n\ class\ abstract\ Monster\ dan\ Meng-override\ method\ dari\ class\ Monster\n\ \n\ @author\ Nazwa\ Salsabila\n\ @version\ 19.11.2023\n
+comment1.params=nilai\ nama
+comment1.target=Aligator(int,\ java.lang.String)
+comment1.text=\n\ Method\ constructor\ dengan\ parameter\ untuk\ menginisialisasi\n\ nilai\ serta\ nama.\n\ \n\ @param\ nilai\n\ @param\ nama\n
+comment2.params=
+comment2.target=int\ getNilai()
+comment2.text=\n\ Method\ abstract\ accessor\ untuk\ return\ dari\ monster\ ->\ nilai,\n\ \n\ @return\n
+comment3.params=
+comment3.target=java.lang.String\ getNama()
+comment3.text=\n\ Method\ abstract\ accessor\ untuk\ return\ dari\ monster\ ->\ nama,\n\ \n\ @return\n
+comment4.params=nama
+comment4.target=void\ setNama(java.lang.String)
+comment4.text=\n\ Method\ mutator\ sebagai\ setter\ nama\ monster,\n\ implementasi\ akan\ diwarisi\ pada\ class\ inherintace\ yang\n\ meng-extends\ class\ Monster\n\ \n\ @param\n
+numComments=5

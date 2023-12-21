@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Emas
+comment0.text=\n\ Menyatakan\ sub\ class\ spesific\ class\ bernama\ Emas\ yaitu\ inheritance\ dari\n\ class\ abstract\ Koin\ dan\ Meng-override\ method\ dari\ class\ Koin\n\ \n\ @author\ Nazwa\ Salsabila\n\ @version\ 19.11.2023\n
+comment1.params=nilai
+comment1.target=Emas(int)
+comment1.text=\n\ Method\ constructor\ dengan\ parameter\ untuk\ menyatakan\ nilai\ koin\n\ yang\ pada\ class\ Emas\ yaitu\ 30.\n\ \n\ @param\n
+comment2.params=
+comment2.target=int\ getNilai()
+comment2.text=\n\ Method\ abstract\ accessor\ ->\ return\ nilai\ koin\n\ \n\ @return\n
+comment3.params=nilaibaru
+comment3.target=void\ setNilai(int)
+comment3.text=\n\ Method\ abstract\ mutator\ untuk\ setter\ nilai\ koin\ yang\ baru\n\ \n\ @param\n
+numComments=4

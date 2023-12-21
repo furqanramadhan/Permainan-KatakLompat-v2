@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Koin
+comment0.text=\n\ Menyatakan\ class\ abstract\ bernama\ Koin\n\ untuk\ menentukan\ nilai\ koin\ dan\ input\ yang\ dimasukkan\n\n\ @author\ Nazwa\ Salsabila\n\ @version\ 19.11.2023\n
+comment1.params=
+comment1.target=Koin()
+comment1.text=\n\ Method\ constructor\ tanpa\ parameter\ untuk\ menyatakan\ nilai\ koin\n\ \n\ @param\n
+comment2.params=nilaiDefault
+comment2.target=Koin(int)
+comment2.text=\n\ Method\ abstract\ accessor\ dengan\ parameter\ untuk\ menentukan\ nilai\ koin\ secara\n\ default\n\ \n\ \n\ @param\n
+comment3.params=
+comment3.target=int\ getNilai()
+comment3.text=\n\ Method\ abstract\ accessor\ ->\ return\ nilai\ koin\n\ implementasi\ akan\ diwarisi\ pada\ class\ inheritance\ yang\ meng-extend\ class\ Koin\n\ \n\ @return\n
+comment4.params=nilaibaru
+comment4.target=void\ setNilai(int)
+comment4.text=\n\ Method\ abstract\ mutator\ untuk\ setter\ nilai\ koin\ yang\ baru\n\ implementasi\ akan\ diwarisi\ pada\ class\ inheritance\ yang\ meng-extend\ class\ Koin\n\ \n\ @param\n
+numComments=5

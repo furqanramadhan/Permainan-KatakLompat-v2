@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=KotakPermainan
+comment0.text=\n\ Menyatakan\ class\ KotakPermainan\ yang\ digunakan\n\ sebagai\ tempat\ katak\ akan\ bergerak.\n\n\ @author\ Nazwa\ Salsabila\n\ @version\ 29.10.2023\n
+comment1.params=j\ jk\ jm
+comment1.target=KotakPermainan(int,\ int,\ int)
+comment1.text=\n\ \n\ @param\ j\ \ method\ constructor\ untuk\ menginisialiasi\ j\ untuk\ jumlahKotak.\n\ @param\ jk\ method\ constructor\ untuk\ menginisialiasi\ jk\ untuk\ jumlahKoin.\n\ @param\ jm\ method\ constructor\ untuk\ menginisialiasi\ jm\ untuk\ jumlahMonster.\n\ \n
+comment2.params=
+comment2.target=void\ generateAcak()
+comment2.text=\n\ Method\ mutator\ untuk\ memberikan\ nilai\ acak\ kepada\ variabel\n\ acakKoin\ dan\ acakMonster.\n
+comment3.params=
+comment3.target=void\ inisialisasiKotak()
+comment3.text=\n\ Method\ mutator\ untuk\ memberi\ isi\ kotak\ yang\ sudah\n\ di\ generate\ dengan\ salah\ satu,\ yaitu\ koin\ atau\ monster.\n
+comment4.params=posisi
+comment4.target=int\ contain(int)
+comment4.text=\n\ \n\ @param\ posisi\ method\ accessor\ dimana\ contain\ akan\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ return\ ->\ boardGame\ koin,\ nilai,\ atau\ monster\n\ @return\n
+numComments=5

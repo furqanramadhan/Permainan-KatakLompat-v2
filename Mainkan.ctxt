@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Mainkan
+comment0.text=\n\ Menyatakan\ class\ interface\ yang\ akan\ mengimplementasikan\n\ method\ didalam\ class\ MainLompatKatak\n\ \n\ @author\ Nazwa\ Salsabila\n\ @version\ 19.11.2023\n\n
+comment1.params=
+comment1.target=void\ Mainkan()
+comment1.text=\n\ Method\ ini\ mengimplementasikan\ untuk\ menjalankan\ method\ Mainkan()\ didalam\n\ class\ MainLompatKatak\n
+numComments=2

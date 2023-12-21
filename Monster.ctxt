@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Monster
+comment0.text=\n\ Menyatakan\ class\ abstract\ bernama\ Monster\ dimana\ monster\ akan\n\ mengurangi\ skor\ dari\ pemain\n\n\ @author\ Nazwa\ Salsabila\n\ @version\ 19.11.2023\n
+comment1.params=
+comment1.target=Monster()
+comment1.text=\n\ Method\ constructor\ dengan\ tanpa\ paramater.\n\ \n\ @param\n
+comment2.params=nilai\ nama
+comment2.target=Monster(int,\ java.lang.String)
+comment2.text=\n\ \n\ Method\ constructor\ dengan\ parameter\ untuk\ menginisialisasi\n\ nilai\ serta\ nama.\n\ \n\ @param\ nilai\n\ @param\ nama\n
+comment3.params=
+comment3.target=int\ getNilai()
+comment3.text=\n\ Method\ abstract\ accessor\ untuk\ return\ dari\ monster\ ->\ nilai,\n\ implementasi\ akan\ diwarisi\ pada\ class\ inheritance\ yang\ meng-extends\n\ class\ Monster\n\ \n\ @return\n
+comment4.params=
+comment4.target=java.lang.String\ getNama()
+comment4.text=\n\ Method\ abstract\ accessor\ untuk\ return\ dari\ monster\ ->\ nama\ monster,\n\ implementasi\ akan\ diwarisi\ pada\ class\ inheritance\ yang\ meng-extends\n\ class\ Monster\n\ \n\ @return\n
+comment5.params=nama
+comment5.target=void\ setNama(java.lang.String)
+comment5.text=\n\ Method\ mutator\ sebagai\ setter\ nama\ monster,\n\ implementasi\ akan\ diwarisi\ pada\ class\ inherintace\ yang\n\ meng-extends\ class\ Monster\n\ \n\ @param\n
+numComments=6
